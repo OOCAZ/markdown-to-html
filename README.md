@@ -55,6 +55,18 @@ This is a sample markdown file.
 - Item 3
 ```
 
+And the output from it
+
+```html
+<h1 id="heading1">Sample Markdown</h1>
+<p>This is a simple markdown file</p>
+<ul>
+  <li>List item 1</li>
+  <li>List item 2</li>
+  <li>List item 3</li>
+</ul>
+```
+
 # License
 
 Check out the LICENSE file for more details
